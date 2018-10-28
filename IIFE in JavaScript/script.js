@@ -7,4 +7,4 @@ var func = function(){
   console.log('some text');
 }
 func();
-//Instead of this we create a anonymous function and invoke it at last using (). Simple.
+//Instead of this we create a anonymous function and invoke it at last using (). That's it, Simple.
